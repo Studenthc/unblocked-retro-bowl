@@ -1,6 +1,6 @@
 # 🏈 Unblocked Retro Bowl Game Website
 
-A dedicated website for the popular retro-style American football game - Unblocked Retro Bowl. This project aims to provide comprehensive information about the game, including gameplay mechanics, features, and tips for players.
+A dedicated website for the popular retro-style American football game - [Unblocked Retro Bowl](https://sites.google.com/view/unblockedretrobowlgame/). This project aims to provide comprehensive information about the game, including gameplay mechanics, features, and tips for players.
 
 ## 🌟 Features
 
@@ -11,7 +11,7 @@ A dedicated website for the popular retro-style American football game - Unblock
 - Mobile-responsive design
 - SEO optimized content
 
-## 🎮 About Unblocked Retro Bowl
+## 🎮 About [Unblocked Retro Bowl](https://sites.google.com/view/unblockedretrobowlgame/)
 
 Retro Bowl is a captivating American football game that masterfully blends retro pixel graphics with modern gameplay mechanics. Players can experience both the excitement of on-field action and the strategic depth of team management.
 
